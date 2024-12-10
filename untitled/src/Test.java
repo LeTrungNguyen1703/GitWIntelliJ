@@ -25,6 +25,5 @@ public class Test {
         a = a * 2;
 
         return temp2 == a;
-
     }
 }
