@@ -21,6 +21,7 @@ public class Test {
         temp = (float) a;
         a = Math.round(temp);
 
+        a = a * 2;
 
         return temp2 == a;
 
