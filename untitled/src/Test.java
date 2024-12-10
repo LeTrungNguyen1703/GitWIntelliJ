@@ -22,6 +22,7 @@ public class Test {
         a = Math.round(temp);
 
         temp = (float) a;
+        a = a * 2;
 
         return temp2 == a;
 
