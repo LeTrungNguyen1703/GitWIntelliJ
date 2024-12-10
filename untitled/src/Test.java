@@ -18,6 +18,10 @@ public class Test {
 
         temp2 *=2;
 
+        temp = (float) a;
+        a = Math.round(temp);
+
+
         return temp2 == a;
     }
 }
